@@ -50,3 +50,11 @@ body
     background: white;
     padding: 1em;
 }
+
+#footer
+{
+    font-size: 15px;
+	color: blue;
+	text-align: center;
+	border: 1px solid #EEE;
+}
