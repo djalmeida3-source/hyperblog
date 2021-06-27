@@ -38,3 +38,11 @@ body
 {
     font-size: 20px;
 }
+
+#footer
+{
+    font-size: 15px;
+	color: blue;
+	text-align: center;
+	border: 1px solid #EEE;
+}
